@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518118690541",
+    "firebase_url": "https://shopping-daily-list.firebaseio.com",
+    "project_id": "shopping-daily-list",
+    "storage_bucket": "shopping-daily-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518118690541:android:69482a235e6820b85ec6e4",
+        "android_client_info": {
+          "package_name": "com.example.dailyshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518118690541-pof3uag9ojncsh1eoh4vesm87811dcmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dailyshoppinglist",
+            "certificate_hash": "a0fe98bb2d94166c0f2979ab14a65ce7b12c143e"
+          }
+        },
+        {
+          "client_id": "518118690541-d1r3udg3eugfcuihf856e3uunvovdcq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyHiDeG59i8us7e6bM79XpdzZj8yoHvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518118690541-d1r3udg3eugfcuihf856e3uunvovdcq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
